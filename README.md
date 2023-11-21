@@ -1,25 +1,24 @@
-# Regress-o_Log-stica_
+# Iris Flower Species Classification
 
-# Projeto de Análise de Dados com Regressão Logística
+## Overview
 
-Este projeto utiliza Regressão Logística para classificar espécies de íris.
+This project demonstrates the use of a Logistic Regression model for classifying Iris flower species based on various features.
 
-## Como Usar
+## Contents
 
-1. Clone o repositório.
+1. **Importing Libraries:**
+   - Importing necessary libraries for data visualization, logistic regression, and metrics calculation.
 
-2. Instale as bibliotecas necessárias.
+2. **Loading the Dataset:**
+   - Loading the Iris dataset from the Seaborn library and displaying the first few rows.
 
-3. Execute o código Python.
+3. **Preparing the Training Set:**
+   - Splitting the dataset into training and testing sets using the `train_test_split` function.
 
-## Contribuições
+4. **Training the Model:**
+   - Creating an instance of the Logistic Regression model and training it with the training set.
 
-Contribuições são bem-vindas.
+5. **Testing the Model:**
+   - Using the trained model to make predictions on the test set.
 
-## Licença
-
-Sob a Licença [Nome da Licença].
-
-## Contato
-
-Entre em contato em contato.guilhermebc@icloud.com
+6. **Visualizing Predictions
